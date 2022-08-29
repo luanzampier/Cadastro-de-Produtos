@@ -145,7 +145,8 @@ img {
 
     body{overflow: auto;}
     main{width: 100%;}
+    th{font-size: 10px;}
 }
-@media only screen and (min-width: 425px) and (max-width: 712px){
+@media only screen and (min-width: 426px) and (max-width: 712px){
     main{width: 100%;}
 }
