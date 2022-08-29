@@ -93,9 +93,6 @@ input {
   border-bottom: 1px solid blueviolet;
   outline: 0;
 }
-label {
-  font-weight: bold;
-}
 
 /*botao de salvar no modal */
 .botao{text-align: center;}
