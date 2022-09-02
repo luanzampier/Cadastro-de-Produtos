@@ -1,8 +1,11 @@
 let tbody = document.querySelector("#tbody");
-let modal = document.querySelector(".modal-container");
+let modal = document.querySelector("#modal-container");
+let modalCadastro = document.querySelector('#modal-cadastro')
+
+
 
 function abrirModal() {
-  modal.style.visibility = "visible";
+  modal.classList.toggle('md-container')
 }
 
 //guardando os valores numa array
